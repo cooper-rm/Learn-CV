@@ -1,4 +1,4 @@
-# Object Detection
+# Generative Models
 
 <p align="center">
   <br>

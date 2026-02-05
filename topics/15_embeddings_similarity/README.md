@@ -1,4 +1,4 @@
-# Object Detection
+# Embeddings & Similarity
 
 <p align="center">
   <br>

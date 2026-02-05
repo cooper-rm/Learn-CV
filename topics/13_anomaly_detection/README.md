@@ -1,4 +1,4 @@
-# Object Detection
+# Anomaly Detection
 
 <p align="center">
   <br>

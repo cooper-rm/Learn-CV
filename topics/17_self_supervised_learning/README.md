@@ -1,4 +1,4 @@
-# Object Detection
+# Self-Supervised Learning
 
 <p align="center">
   <br>

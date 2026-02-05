@@ -1,4 +1,4 @@
-# Object Detection
+# Facial Recognition
 
 <p align="center">
   <br>

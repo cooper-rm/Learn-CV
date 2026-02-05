@@ -1,4 +1,4 @@
-# Object Detection
+# Vision & Reinforcement Learning
 
 <p align="center">
   <br>

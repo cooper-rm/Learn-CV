@@ -1,4 +1,4 @@
-# Object Detection
+# Visual SLAM
 
 <p align="center">
   <br>

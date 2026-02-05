@@ -1,4 +1,4 @@
-# Object Detection
+# Action Recognition
 
 <p align="center">
   <br>

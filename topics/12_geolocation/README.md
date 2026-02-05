@@ -1,4 +1,4 @@
-# Object Detection
+# Geolocation
 
 <p align="center">
   <br>

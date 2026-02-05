@@ -1,4 +1,4 @@
-# Object Detection
+# Vision Transformers
 
 <p align="center">
   <br>
