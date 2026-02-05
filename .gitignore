@@ -2,3 +2,12 @@ __pycache__/
 .env
 .venv
 ideas.md
+
+# Data files
+data/
+*.tar.gz
+*.zip
+*.h5
+*.hdf5
+*.pkl
+*.pickle
